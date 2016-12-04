@@ -1,0 +1,389 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "BenoitDeprez.com",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#c0a375",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.8.7",
+    "uniqCompNum": 21,
+    "versionPublish": "3.9.2",
+    "favicon": "@PROJECT_PATH@/assets/images/fav-128x128-20.png",
+    "noImageResize": "",
+    "publishType": "github"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px",
+              "text-align": "right",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Benoit Déprez, PhD, MBA",
+          "meta": "le plaisir est la noblesse de la volonté"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#7c706b"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "ideas for a new university",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "proximité[s] et efficacité",
+          "text": "savoir et apprentissage,&nbsp;<br>proximité géographique, organisationnelle et culturelle<br>le modèle Triple Helix",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right",
+              "color": "#28324e"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "le pharmacien : un constructeur de confiance&nbsp;",
+          "meta": "By Benoit Deprez publié le 20 Novembre 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Actif tout le long de la chaine de valeur du médicament, le pharmacien assure le lien entre performances attendue, réelle, perçue et crue.</p><p>Son savoir multidisciplinaire dispensé par des enseignants de haut niveau scientifique, ses compétences vérifiées, ainsi que son attitude sont les clé de la confiance du public dans le médicament.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content6-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Comprendre les phénomènes complexes liés à la conception la fabrication, la dispensation et l'usage du médicament.</p><p>identifier et comprendre les risques de dysfonctionnement.</p><p><br></p><p>SAVOIR POURQUOI et ACIR ou REAGIR</p><p><br></p><p>le pharmacien est un scientifique qui comprend les phénomènes biologiques, physiques et chimiques mis en oeuvre dans la recherche, le développement la fabrication et l'utilisation du médicament. Sa formation et son attitude scientifiques inspirent la confiance du public.</p><p>Le savoir et l'attitude requis pour exercer le métier de pharmacien sont identiques dans les domaines d'exercice de la pharmacie : l'officine, la pharmacie hospitalière, la biologie médicale, et l'industrie.</p><p><br></p><p>la confiance : croyance dans la qualité d'un produit. la qualité d'un médicament est extrêment difficile à percevoir pour un profane. C'est donc dans l'attitude des professionnels du médicament que le public pourra juger de la qualité du médicament.</p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><span style=\"line-height: 1.5;\">La confiance dans un produit dont la technicité est imperceptible. La complexité des interactions entre le médicament et le patient, la population et l’environnement fait que son bon usage résulte d’une relation de confiance entre le médecin, la chaine de valeur du médicament et le patient.</span><br></p><p>Le pharmacien est le représentant / responsable accountable responsible de cette chaine de valeur du médicament.&nbsp;</p><p>Sa capacité à comprendre les phénomènes que le patient ne comprend pas ou ne maitrise pas est à la bas de son prestige, de la croyance et donc de la confiance et de l'observance (bon usage du médicament).</p><p><br></p><p>Quality by Design : un concept industriel qui peut s'étendre à toute la chaîne de valeur du médicament.</p><p><br></p><p>quality : ISO 8402-1986 standard defines quality as \"the totality of features and characteristics of a product or service that bears its ability to satisfy stated or implied needs.\"Qualité = confiance.&nbsp;</p><p><br></p><p>multidisciplinarité</p><p><br></p><p>Quality by design à étendre tout au long de la chaine de valeur du médicament.&nbsp;</p><p>On connait le domaine de vol d’un avion pour se maintenir dans la zone sure du domaine en exploitation. ON conneit le fonctionnement de l’avion pour réagir de manière approprié lorsqu’un évènement imprévu nous poussent vers les limites du domaine de vol.</p><p>*</p><p>La formation de pharmacien : une formation scientifique pluridisciplinaire unique pour un produit unique dans sa complexité et son impact sur la santé. a physiologie, la pharmacolgie la chimie la biochimie pour comprendre pourquoi et comment le médicament fonctionne, les risques que comportent son usage. Comment en faire le bon usage pour la santé des patients.</p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "form1-4",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT ME",
+          "subtitle": "please use the form to contact me",
+          "form": {
+            "action": "h24@benoitdeprez.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-f",
+          "_params": {
+            "googleMap": {
+              "address": "1, rue du professeur Calmette, 59000 Lille",
+              "placeId": "ChIJ0ZkhrZLVwkcR8egL5hv7lG4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right",
+              "color": "#28324e"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "le pharmacien : un constructeur de confiance&nbsp;",
+          "meta": "By Benoit Deprez publié le 20 Novembre 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right",
+              "color": "#28324e"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Le vol à voile : allégorie de la vie",
+          "meta": "By Benoit Deprez publié le 20 Novembre 2016"
+        }
+      ]
+    }
+  }
+}
